@@ -1,7 +1,7 @@
 # WEATHER APP
 
 ![Project Image]
-(https://photos.app.goo.gl/GSE3Cq1NmopTTG7E7)
+(https://github.com/nanya01/weatherApp/issues/1#issue-1005468969)
 
 ## Getting Started
 
@@ -20,8 +20,9 @@ samples, guidance on mobile development, and a full API reference.
 ### Table of Contents
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [References](#refere- [License](#license)
+- [References](#references)
 - [Author Info](#author-info)
+
 
 ## Description
 
@@ -39,8 +40,7 @@ Clone the github repository
 
 ### API REFERENCE
 
-[Use OpenWeathermap Api]
-(http://api.openweathermap.org/data/2.5/weather?q=London&appid= Your API Key)
+[Use OpenWeathermap Api](http://api.openweathermap.org/data/2.5/weather?q=London&appid= Your API Key)
 
 object		{13}
 		
@@ -109,7 +109,7 @@ cod	:	200
 
 ---
 
-##References
+## References
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -120,10 +120,11 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[Back To Top] (WEATHER APP)
+[Back To Top](#weather-app)
 
 ---
 
-##Author Info
+## Author Info
 
-[Linkedln] (https://www.linkedin.com/in/peter-ahunanya-b18a82209/)
+Linkedln - [@Peter Ahunanya](https://www.linkedin.com/in/peter-ahunanya-b18a82209/)
+ 
