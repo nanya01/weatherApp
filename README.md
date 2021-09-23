@@ -42,69 +42,50 @@ Clone the github repository
 
 [Use OpenWeathermap Api](http://api.openweathermap.org/data/2.5/weather?q=London&appid= Your API Key)
 
-object		{13}
-		
-	coord		{2}
-		
-lon	:	-0.1257
-		
-lat	:	51.5085
-		
-	weather		[1]
-		
-	0		{4}
-		
-base	:	stations
-		
-	main		{6}
-		
-temp	:	293.52
-		
-feels_like	:	293.52
-		
-temp_min	:	292.1
-		
-temp_max	:	295.16
-		
-pressure	:	1020
-		
-humidity	:	73
-		
-visibility	:	10000
-		
-	wind		{3}
-		
-speed	:	0.89
-		
-deg	:	266
-		
-gust	:	4.02
-		
-	clouds		{1}
-		
-all	:	90
-		
-dt	:	1632402089
-		
-	sys		{5}
-		
-type	:	2
-		
-id	:	2019646
-		
-country	:	GB
-		
-sunrise	:	1632376097
-		
-sunset	:	1632419847
-		
-timezone	:	3600
-		
-id	:	2643743
-		
-name	:	London
-		
-cod	:	200
+{
+  "coord": {
+    "lon": -0.1257,
+    "lat": 51.5085
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 293.65,
+    "feels_like": 293.71,
+    "temp_min": 292.15,
+    "temp_max": 295.54,
+    "pressure": 1019,
+    "humidity": 75
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 0.89,
+    "deg": 254,
+    "gust": 3.13
+  },
+  "clouds": {
+    "all": 90
+  },
+  "dt": 1632406497,
+  "sys": {
+    "type": 2,
+    "id": 2019646,
+    "country": "GB",
+    "sunrise": 1632376097,
+    "sunset": 1632419847
+  },
+  "timezone": 3600,
+  "id": 2643743,
+  "name": "London",
+  "cod": 200
+}
 
 
 ---
