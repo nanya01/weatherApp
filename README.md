@@ -1,7 +1,7 @@
 # WEATHER APP
 
-![Project Image]
-(https://github.com/nanya01/weatherApp/issues/1#issue-1005468969)
+![projectImage](https://user-images.githubusercontent.com/65512288/134526196-27992ba6-37b5-4a8e-9aff-b790c389680a.jpeg)
+
 
 ## Getting Started
 
