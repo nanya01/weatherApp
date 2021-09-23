@@ -107,5 +107,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Author Info
 
+Twitter - [@_nanya1](https://twitter.com/_nanya1)
+
 Linkedln - [@Peter Ahunanya](https://www.linkedin.com/in/peter-ahunanya-b18a82209/)
  
